@@ -14,9 +14,7 @@ Once dependencies have been declared, we can set up our references to the databa
 **Part 2**
 In Part 2, we begin updating and manipulating the data that was provided for us in the JSON file ("CRUD"). 
 
-We first add a new restaurant that is not included in the initial JSON file, and update missing fields based on existing documents.
-
-We also filter for and delete files that are from the Dover Local Authority, as we will not be using those in our analysis.
+We first add a new restaurant that is not included in the initial JSON file, and update missing fields based on existing documents. We also filter for and delete files that are from the Dover Local Authority, as we will not be using those in our analysis.
 
 Finally, we update numerical data types across the total collection, adjusting Latitude and Longitude to contain decimals and ratingvalue to be integers
 
